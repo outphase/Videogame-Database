@@ -1,3 +1,6 @@
 [submodule "vgdb_iced"]
 	path = vgdb_iced
-	url = .\\vgdb_iced\\
+	url = https://github.com/outphase/vgdb_iced
+[submodule "vgdb"]
+	path = vgdb
+	url = https://github.com/outphase/vgdb
