@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+	"vgdb",
+	"vgdb_cli", "vgdb_iced",
+]
