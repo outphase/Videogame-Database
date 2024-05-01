@@ -1,0 +1,3 @@
+[submodule "vgdb_iced"]
+	path = vgdb_iced
+	url = .\\vgdb_iced\\
