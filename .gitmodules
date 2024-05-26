@@ -1,6 +1,11 @@
 [submodule "vgdb_iced"]
 	path = vgdb_iced
 	url = https://github.com/outphase/vgdb_iced
+
 [submodule "vgdb"]
 	path = vgdb
 	url = https://github.com/outphase/vgdb
+
+[submodule "vgdb-godot"]
+	path = vgdb-godot
+	url = https://github.com/outphase/vgdb-godot
